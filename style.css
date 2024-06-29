@@ -1,0 +1,108 @@
+ /* nav {
+
+      background-color: #333333;
+    
+    
+      
+      
+    
+    }  */
+    
+  body{
+    background-image:url(./New_classic_home_interior_designe_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+    
+ ul {
+    
+    list-style-type: none;
+    
+    padding: 0;
+    
+    margin: 0;
+    
+    display: flex;
+    
+    justify-content: space-around;
+    
+    } 
+  
+    p{
+      text-align: center;
+    }
+    .button{
+      text-align: center;
+    }
+    #navbar{
+      display: flex;
+      justify-content: space-between;
+      margin: 20px;
+    }
+    a{
+      margin-left: 30px;
+      text-decoration: none;
+      color: white;
+    }
+    #interior{
+      color: white;
+    }
+
+
+    
+    * {
+    
+    text-align: center;
+    
+    }
+    
+#tocenter{
+  text-align: center;
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif; 
+  color:rgb(14, 4, 4);  
+}
+#button{
+text-align: center;
+border-radius: 20% ;
+:hover{
+  background-color: aqua;
+
+}
+border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*Alternative CSS Centering Code with the "body" Selector*/
+/*     
+    body {
+    
+    text-align: center;
+    
+    }
+    
+    /* Styling */
+/*     
+    body {
+      margin: auto;
+      width: 640px; 
+      padding: 50px;
+      font-family: 'Lexend Deca', sans-serif; 
+      color: #2E475D;    
+    } */ 
+    
